@@ -1,5 +1,5 @@
 <resources>
-    <string name="app_name">GWG_ABND18_home2mars_News_App_2</string>
+    <string name="app_name">News_App_2_GWG_ABND18_home2mars</string>
     <string name="ReadMore">Read More</string>
     <string name="no_network_available">No Network Available</string>
     <string name="please_check_network_settings_and_refresh">Please Check Network Settings and Refresh</string>
